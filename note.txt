@@ -1,0 +1,5 @@
+để realtime tốt thì ảnh chụp sáng , nhiều góc mặt , tại chỗ realtime Luôn thì oke nhất
+Xử lí video đc truyền vào thì dưới 30fps là ngon , chất lượng 480 
+
+1 ảnh thì cỡ 0.26, 2 ảnh thì cỡ 0.46
+Dùng numna thì còn 0.23
