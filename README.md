@@ -12,7 +12,7 @@ https://www.youtube.com/embed/3EBdT-0gvu8
 ```
 
 
-# A very Simple Gui app for Face Recongition
+# A very Simple Gui app and fast API for Face Recongition
 
   - Train User
   - Attendence entry
@@ -31,35 +31,41 @@ $ pip install -r  requirements.txt
 ```sh
 $ python face_attendend.py
 ```
+2 : Run The API
+
+```sh
+$ python fast_api.py
+```
+
 
 # APP GUI
 
 ### Home Page
-![homepage](https://i.ibb.co/c62qvR2/home-page.png)
+![homepage](image_design_form/login.jpg)
 
+![homepage1](image_design_form/log2.jpg)
 ### Add a User <br>
 Add the user you want to save datasets <br>
-![page1](https://i.ibb.co/t8gdq6s/adduser.png)<br>
+![page1](image_design_form/trainuser.jpg)<br>
 
 
 ### Face recognition and record<br>
-Capture Data From the face then recognition 
-![page2](https://i.ibb.co/D8JgYhN/capandtraindata.png)<br>
+Capture Data From the face then recognition<br>
+![page2](image_design_form/attend.jpg)<br>
+
+![page](image_design_form/dai2.jpg)<br>
 
 ### Reports<br>
 Displays information about identified people<br>
-![page3](https://i.ibb.co/1KwfVVV/dropdown.png)<br>
+![page3](image_design_form/reports.jpg)<br>
 
-### Recognition <br>
+### Recognition with many people <br>
 A webcam window will popup and start recognition proccess<br>
-![page4](https://i.ibb.co/sCtgDDC/4page.png)<br>
->![Face Recognition](https://i.ibb.co/bNpC5wR/jack.png)<br>
->![emotion](https://i.ibb.co/F7pdtjZ/emotion.png)<br>
->![Age and Gender](https://i.ibb.co/9q1L7sD/age.png)<br>
 
 
 
 <br><br>
+# API Face-Recognition
 
 Made By ❤ : [NguyenDai](nguyenvandai_t66@hus.edu.vn)<br>
 **Free Software, Hell Yeah!**
