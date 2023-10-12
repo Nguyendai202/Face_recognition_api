@@ -7,7 +7,7 @@ Face recognition is a method of identifying or verifying the identity of an indi
 # Setup
 Download folder [model](https://drive.google.com/drive/folders/1cFKeD757YEP9H93YhURDiTq4RIwx3mP5?usp=drive_link), unzip and copy to project run directory: model
 
-# Live Demo
+# Video Demo
 ```html
 https://drive.google.com/file/d/1bmZOOjgkWUyoaE7mVaXY3MwU3VSjGAlq/view?usp=sharing
 
